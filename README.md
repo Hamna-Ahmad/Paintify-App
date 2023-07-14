@@ -1,6 +1,6 @@
 # Paintify
 
-Paintify is a web application that allows you to turn any picture into paintings. Whether you want to transform a photo of your pet into a Picasso-style artwork or convert a picture of your house into an oil painting, Paintify provides the tools to bring your creative visions to life.
+Paintify is a mock web application that allows you to turn any picture into paintings. Whether you want to transform a photo of your pet into a Picasso-style artwork or convert a picture of your house into an oil painting, Paintify provides the tools to bring your creative visions to life.
 
 ## Features
 
